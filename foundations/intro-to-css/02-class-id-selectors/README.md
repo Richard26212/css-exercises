@@ -15,7 +15,10 @@ look similarly styled (classes),
 which ones may be completely unique from the rest (ID), 
 and which ones have slight variations from others (multiple classes).
 
-It isn't entirely important which class or ID values you use, as the focus here is on being able to add the attributes and use the correct selector syntax to style elements. For the colors in this exercise, try using a non-keyword value (RGB, HEX, or HSL). The properties you need to add to each element are:
+It isn't entirely important which class or ID values you use, 
+as the focus here is on being able to add the attributes and 
+use the correct selector syntax to style elements. 
+For the colors in this exercise, try using a non-keyword value (RGB, HEX, or HSL). The properties you need to add to each element are:
 
 * **All odd numbered elements**: a light red/pink background, 
 and a list of fonts containing `Verdana` and `DejaVu Sans` 
@@ -30,7 +33,11 @@ HEX, or HSL by hovering over the color value in the CSS and
 clicking the top of the popup that appears!
 
 > ### Note:
-> Part of your task is to add a font to _some_ of these items. Your browser's font's might be different than the one displayed in the desired outcome image. As long as you confirm that the fonts _are_ being applied to the right lines any differences are okay for this exercise.
+> Part of your task is to add a font to _some_ of these items. 
+Your browser's font's might be different than the one displayed 
+in the desired outcome image. 
+As long as you confirm that the fonts _are_ being applied to the right 
+lines any differences are okay for this exercise.
 
 ## Desired Outcome
 ![desired outcome](./desired-outcome.png)
